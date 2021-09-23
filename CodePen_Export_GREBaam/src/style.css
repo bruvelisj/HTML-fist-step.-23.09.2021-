@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: green;
+  font-family: Tahoma;
+  line-hight: 1;
+  font-size: 18px;
+}
+   
+.image{
+  margin: 0 auto;
+  width: 30px;
+  hight: 100px;
+  border=radius: 50%;
+  
+  
+}
+.image-photo{
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+  
+.title {
+  font-size: 45px;
+  color: white;
+}
+
+.subdivision{
+  font-size: 40px;
+  color: white
+    
+}
